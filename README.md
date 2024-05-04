@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheTinkerer12
+- 👋 Hi, I’m @TheTinkerer12. I'm 12 years old.
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning how to not make errors
 - 💞️ I’m looking to collaborate on nothing yet
